@@ -1,1 +1,1 @@
-# js-escrevenome
+# Projeto onde é possível desenhar com o cursor do mouse diversos retângulos ao precionar o mouse, ao precionar e arrastar o cursor pela tela voc~e poderá criar desenhos a partir desses retângulos vermelhos de bordas azuis. 
